@@ -1,0 +1,37 @@
+body {
+  background-color: #f4f6f8;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.AppBar {
+  background-color: #3f51b5;
+  color: white;
+}
+
+.MovieCard {
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.MovieCardContent {
+  padding: 16px;
+}
+
+.MovieCardButton {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.MovieDetailContainer {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+#yt-player {
+  margin-top: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+}
