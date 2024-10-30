@@ -17,7 +17,7 @@ Movie App — это React-приложение для поиска и прос�
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш_пользователь/movie-app.git
+   git clone https://github.com/assscer/Movie-App.git
    cd movie-app
 2. **Установка зависимостей**:
    ```bash
